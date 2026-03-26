@@ -2,8 +2,6 @@
 
 This project focuses on building an intelligent machine learning system to automatically classify and recognize urban environmental sounds such as sirens, car horns, dog barks, drilling, and street music.
 
-### Dataset:- https://www.kaggle.com/datasets/chrisfilo/urbansound8k
-
 ## 🚀 Overview
 Urban environments generate a wide variety of sounds that are important for applications like smart city monitoring, noise pollution analysis, and public safety systems. This project uses Machine Learning and Deep Learning techniques to classify these sounds efficiently and accurately.
 
@@ -24,6 +22,7 @@ Urban environments generate a wide variety of sounds that are important for appl
 
 ## 📊 Dataset
 - UrbanSound8K dataset (8,732 labeled audio clips across 10 classes)
+- Download Dataset:- https://www.kaggle.com/datasets/chrisfilo/urbansound8k
 
 ## ⚙️ Methodology
 1. Data Collection
